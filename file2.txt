@@ -2,3 +2,4 @@ menambahan file2.txt
 menambah baris di file2.txt
 menambah feature/2
 feature a
+feature c
