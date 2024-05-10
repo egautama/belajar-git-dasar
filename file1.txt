@@ -3,3 +3,4 @@ menambah baris di file1.txt
 menambah feature/1
 feature a
 feature b
+feature c
